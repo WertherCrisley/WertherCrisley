@@ -31,7 +31,7 @@ Possuo conhecimentos em **Node.js**, o que amplia minha visão sobre o ecossiste
 
 - 🌍 Portfólio: https://werthercrisley.github.io/Portifolo-Werther/#/  
 - 💻 GitHub: https://github.com/WertherCrisley  
-- 💼 LinkedIn: https://www.linkedin.com/in/werther-crisley-37b6832a2/  
+- 💼 LinkedIn: https://www.linkedin.com/in/werther-crisley-58aba73b9/  
 - 📧 Email: Crisleyalencar7@gmail.com  
 - 📱 Telefone: (85) 92150-7296  
 
