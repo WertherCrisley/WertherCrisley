@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Werther Crisley  
 **Desenvolvedor Front-End**
 
-Sou desenvolvedor Front-End apaixonado por tecnologia e criação de interfaces modernas, funcionais e responsivas.
+Sou desenvolvedor Front-End 
 
 Tenho experiência no desenvolvimento de aplicações web utilizando **HTML, CSS, JavaScript e React**, sempre focando em código limpo, organização e na melhor experiência do usuário.
 
