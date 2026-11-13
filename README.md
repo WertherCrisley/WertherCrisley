@@ -99,12 +99,16 @@ Aqui você encontrará projetos desenvolvidos durante meus estudos e trabalhos p
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WertherCrisley&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WertherCrisley&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WertherCrisley&theme=github_dark" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WertherCrisley&theme=github_dark" alt="Repositórios por linguagem" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WertherCrisley&theme=tokyonight&hide_border=true" alt="Streak do GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2ea043/WertherCrisley" alt="Gráfico de contribuições" />
 </p>
 
 ---
